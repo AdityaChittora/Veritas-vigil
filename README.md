@@ -84,6 +84,6 @@ scikit-learn (baseline)	95.5%	Less transparent, no control over preprocessing
 
 Our custom pipeline offers better insight into how the model interprets language, making it ideal for educational and forensic use.
 
-✅ Conclusion
+Conclusion
 This project demonstrates that a rule-based NLP pipeline — when thoughtfully engineered — can achieve high performance in a real-world task like fake news detection. While off-the-shelf tools are more powerful out of the box, building from scratch offers deeper understanding and transparency.
 
